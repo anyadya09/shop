@@ -1846,7 +1846,7 @@ img.post-image {
 
 .main-slider .slider-item {
   display: flex;
-  width: 100%;
+  width: 75%;
   justify-content: center;
 }
 
