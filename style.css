@@ -2475,7 +2475,7 @@ footer#footer {
   line-height: 24px;
   margin-bottom: 0;
   font-family: "Roboto", sans-serif;
-  color: #fff;
+  color: #050505;
 }
 
 #footer .footer-top .social-links a {
@@ -2535,7 +2535,7 @@ footer#footer {
 }
 
 #footer .footer-top .footer-links ul a {
-  color: #fff;
+  color: #070707;
   transition: 0.3s;
   display: inline-block;
   line-height: 1;
@@ -2547,7 +2547,7 @@ footer#footer {
 
 #footer .footer-top .footer-newsletter form {
   margin-top: 30px;
-  background: #fff;
+  background: #030303;
   padding: 6px 10px;
   position: relative;
   border-radius: 4px;
