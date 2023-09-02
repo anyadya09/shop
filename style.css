@@ -247,7 +247,7 @@ a {
 
 /* form control */
 .form-control:focus {
-  border-color: #ccc;
+  border-color: #a19f9f;
   box-shadow: 0 0 0 0.25rem rgba(200, 200, 200, .25);
 }
 
@@ -342,7 +342,7 @@ ol li {
 }
 
 ul li.active a {
-  color: #daa556;
+  color: #0a0a0a;
 }
 
 ul li:last-child,
@@ -608,7 +608,7 @@ abbr {
 }
 
 .text-muted {
-  color: #777;
+  color: #0a0a0a;
 }
 
 .text-pri {
@@ -861,7 +861,7 @@ button {
   line-height: normal;
   text-align: center;
   text-transform: uppercase;
-  color: #fff;
+  color: #080808;
   z-index: 1;
   cursor: pointer;
   white-space: nowrap;
@@ -893,7 +893,7 @@ button:hover {
 }
 
 .light .btn:hover {
-  color: #D68386;
+  color: #0f0f0f;
 }
 
 .btn:last-child {
@@ -1153,17 +1153,17 @@ fieldset[disabled] a.btn {
 }
 
 .nav-link.disabled {
-  color: #6c757d;
+  color: #030303;
   pointer-events: none;
   cursor: default;
 }
 
 .nav-tabs {
-  border-bottom: 1px solid #D68386;
+  border-bottom: 1px solid #030303;
 }
 
 .nav-tabs .nav-link {
-  color: #999;
+  color: #754f4f;
   padding: 10px 30px;
   margin-bottom: -1px;
   background: none;
@@ -1174,7 +1174,7 @@ fieldset[disabled] a.btn {
 
 .nav-tabs .nav-link:hover,
 .nav-tabs .nav-link:focus {
-  border-color: #D68386 #D68386 #D68386;
+  border-color: #292727 #D68386 #D68386;
   isolation: isolate;
 }
 
@@ -1186,7 +1186,7 @@ fieldset[disabled] a.btn {
 
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
-  color: #495057;
+  color: #151516;
   border-color: #D68386 #D68386 #D68386;
   --bs-nav-tabs-link-active-bg: transparent;
 }
@@ -1824,7 +1824,7 @@ img.post-image {
 ------------------------------------------------------------- */
 #header {
   padding: 20px 0;
-  border-bottom: 1px solid #D68386;
+  border-bottom: 1px solid #050505;
   background-color: #D68386;
 }
 
@@ -1859,7 +1859,7 @@ img.post-image {
 .banner-content h2.banner-title {
   font-size: 4.5em;
   font-weight: 500;
-  color: #222;
+  color: #030303;
 }
 
 .banner-content p {
@@ -1875,7 +1875,7 @@ img.post-image {
 
 #billboard button.slick-arrow {
   background: transparent;
-  border: 1px solid #D68386;
+  border: 1px solid #050505;
   padding: initial;
   width: 50px;
   height: 50px;
@@ -1887,7 +1887,7 @@ img.post-image {
 }
 
 #billboard button.slick-arrow:hover {
-  border: 1px solid #74642F;
+  border: 1px solid #050505;
   background-color: #D68386;
 }
 
@@ -1900,7 +1900,7 @@ img.post-image {
 }
 
 #billboard .slick-arrow i.icon {
-  color: #8C8C8C;
+  color: #030303;
 }
 
 @media screen and (max-width: 1366px) {
@@ -1988,7 +1988,7 @@ img.post-image {
 
 #best-selling .product-entry .item-price {
   font-size: 1.5em;
-  color: #74642F;
+  color: #020202;
   margin-bottom: 40px;
 }
 
@@ -2027,7 +2027,7 @@ img.post-image {
 
 .tabs .tab {
   font-weight: 600;
-  color: #999;
+  color: #0e0d0d;
   margin-right: 50px;
   cursor: pointer;
 }
@@ -2096,7 +2096,7 @@ img.books-image {
 }
 
 span.prev-price {
-  color: #999;
+  color: #020202;
   font-size: 0.8em;
   padding-right: 10px;
   text-decoration: line-through;
@@ -2123,16 +2123,16 @@ span.prev-price {
 #subscribe form#form {
   display: flex;
   justify-content: space-between;
-  border-bottom: 1px solid #6F6F6F;
+  border-bottom: 1px solid #333232;
 }
 
 ::-webkit-input-placeholder {
-  color: #7A7A7A;
+  color: #424242;
   /* WebKit browsers */
 }
 
 :-ms-input-placeholder {
-  color: #7A7A7A;
+  color: #3f3d3d;
   /* Internet Explorer 10+ */
 }
 
@@ -2213,7 +2213,7 @@ span.prev-price {
 
 #latest-blog .meta-date {
   font-family: "Prata", Georgia, serif;
-  color: #74642F;
+  color: #020202;
   padding-bottom: 20px;
 }
 
@@ -2371,7 +2371,7 @@ footer#footer {
 .product-style img.product-item {
   position: relative;
   background: #D68386;
-  border: 1px solid #D68386;
+  border: 1px solid #0e0d0d;
   padding: 15%;
   cursor: pointer;
   width: 100%;
@@ -2407,7 +2407,7 @@ footer#footer {
 .product-item figcaption>h3 {
   font-size: 1.4em;
   font-weight: 500;
-  color: #74642F;
+  color: #0f0f0f;
   margin: 0;
 }
 .product-item figcaption>p {
@@ -2415,7 +2415,7 @@ footer#footer {
 }
 
 .product-item .item-price {
-  color: #74642F;
+  color: #070707;
   font-size: 1.3em;
 }
 
