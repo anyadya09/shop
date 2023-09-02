@@ -31,12 +31,12 @@ Version: 1.1
 
 /* Theme Colors */
 :root {
-  --accent-color: #C5A992;
-  --secondary-color: #C5A992;
+  --accent-color: #181614;
+  --secondary-color: #1a1818;
   --dark-color: #050505;
   --light-color: #D68386;
   --body-text-color: #080808;
-  --light-text-color: #afafaf;
+  --light-text-color: #0e0a0a;
   --dark-text-color: #0a0303;
 }
 
